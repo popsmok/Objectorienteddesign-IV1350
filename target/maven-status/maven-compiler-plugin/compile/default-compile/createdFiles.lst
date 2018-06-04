@@ -1,0 +1,14 @@
+se\kth\iv1350\pointofsale\intergration\Printer.class
+se\kth\iv1350\pointofsale\intergration\DatabaseErrorException.class
+se\kth\iv1350\pointofsale\controller\Controller.class
+se\kth\iv1350\pointofsale\intergration\ExternalInventorySystem.class
+se\kth\iv1350\pointofsale\startup\Main.class
+se\kth\iv1350\pointofsale\model\Sale.class
+se\kth\iv1350\pointofsale\intergration\DiscountDB.class
+se\kth\iv1350\pointofsale\view\TotalRevenueView.class
+se\kth\iv1350\pointofsale\intergration\InvalidItemIDException.class
+se\kth\iv1350\pointofsale\intergration\ExternalAccountingSystem.class
+se\kth\iv1350\pointofsale\intergration\ItemDB.class
+se\kth\iv1350\pointofsale\intergration\ItemDTO.class
+se\kth\iv1350\pointofsale\view\View.class
+se\kth\iv1350\pointofsale\model\VerifyDiscount.class
